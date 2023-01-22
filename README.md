@@ -5,7 +5,7 @@
   </h1>
   
   <p align="center">
-    Soy estudiante de la carrera de Ingeniería de Sistemas, y me apasiona la programación y el desarrollo web,
+    Soy estudiante de la carrera de Ingeniería de Computación y Sistemas. Me apasiona la programación y el desarrollo web,
     del lado del Fronted ☕✅
   </p>
   
