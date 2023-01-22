@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Bienvenido, mi nombre es Eduardo 🙋🏻‍♂️
+    Bienvenido, mi nombre es Eduardo 🧑🏻‍💻
   </h1>
   
   <p align="center">
