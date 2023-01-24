@@ -3,7 +3,7 @@
 <br>
 
 <p align="justify"> 📚 Cursando el sexto ciclo de la carrera </p>
-<p align="justify"> 📖 Estoy aprendiendo nuevas tecnologías sobre el desarrollo fronted </p>
+<p align="justify"> 📖 Aprendiendo nuevas tecnologías sobre el desarrollo fronted </p>
 
 
 
