@@ -1,7 +1,11 @@
-<h1 align="center"> Hola 👋 , Soy Eduardo </h1>
-<h2 align="center"> 👨🏻‍💻 Estudiante de Ingeniería de Computación y Sistemas, apasionado por el desarrollo Web Frontend </h2>
-<p align="justify"> 📚 Actualmente estoy cursando la Universidad, en el sexto ciclo de la carrera </p>
-<p align="justify"> 🌱 Estoy aprendiendo nuevas tecnologías sobre el desarrollo fronted </p>
+<h1 align="center"> Hey bienvenido, mi nombre es Eduardo 🧑🏻‍💻 </h1>
+<h3 align="center"> Estudiante de Ingeniería de Computación y Sistemas, apasionado por el desarrollo Web Frontend </h3>
+<br>
+
+<p align="justify"> 📚 Cursando el sexto ciclo de la carrera </p>
+<p align="justify"> 📖 Estoy aprendiendo nuevas tecnologías sobre el desarrollo fronted </p>
+<p align="justify"> 📖 Estoy aprendiendo nuevas tecnologías sobre el desarrollo fronted </p>
+
 
 
 
